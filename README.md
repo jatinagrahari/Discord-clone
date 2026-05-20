@@ -28,35 +28,6 @@
 
 ---
 
-## 🚀 Quick Start
-
-### Prerequisites
-- Modern web browser
-- No installation required!
-
-### Usage
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/jatinagrahari/Discord-clone.git
-   cd Discord-clone
-   ```
-
-2. **Open in browser**
-   - Simply open `index.html` in your browser
-   - Or use a local server:
-   ```bash
-   # Using Python
-   python -m http.server 8000
-   
-   # Using Node.js
-   npx http-server
-   ```
-
-3. **Open** `http://localhost:8000` in your browser
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -236,24 +207,6 @@ This project demonstrates:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-Please ensure:
-- Code follows semantic HTML practices
-- CSS is organized and documented
-- Responsive design is maintained
-- Performance is optimized
-
----
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -262,16 +215,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
-
-**Jatin Agrahari**
-
-- 🔗 [GitHub](https://github.com/jatinagrahari)
-- 💼 [LinkedIn](https://linkedin.com/in/jatinagrahari)
-- 🐦 [Twitter](https://twitter.com/jatinagrahari)
-- 🌐 [Portfolio](https://itsjatin.me)
-
----
 
 ## 📚 Resources Used
 
